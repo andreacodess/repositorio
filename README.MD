@@ -1,5 +1,4 @@
 # Paso:1 Redirigete a la carpeta del proyecto con CD, si está en MacOS debe usar "/"
- 
 # Paso 2: Cree el ambiente virtual
 python -m venv myenv
 
